@@ -8,9 +8,13 @@ Musa Ali | Wali Khan | Dara Shikoh Bodla
 Ghulam Ishaq Khan Institute of Engineering Sciences and Technology (GIKI)
 
 During guided deployment, use the following:
+
 Stack Name: bayan-prod
+
 Region: us-east-1
+
 Allow SAM CLI IAM role creation: Y
+
 Disable rollback: N
 
 Once deployment is complete, the terminal will output two essential URLs:
